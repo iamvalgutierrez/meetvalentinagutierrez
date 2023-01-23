@@ -70,7 +70,7 @@ body {
 }
 
 .content a {
-  color: #ff4d88;
+  color: #ff99b9;
   font-weight: 600;
   text-decoration: none;
 }
@@ -102,7 +102,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 350px;          /* <--- CHANGE US TOGETHER */
-  background-color: #ff4d88;
+  background-color: #ff99b9;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -134,13 +134,13 @@ div.content {
 
 /* Active/current link */
 .sidebar a.active {
-  background-color: #ff4d88;
+  background-color: #ff99b9;
   color: #d3d3da;
 }
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #ff4d88;
+  background-color: #ff99b9;
   color: #d3d3da;
 }
 
