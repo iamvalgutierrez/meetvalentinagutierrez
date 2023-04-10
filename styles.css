@@ -5,7 +5,7 @@ body {
 }
 
 .sidebar h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
   font-size: 350%;
   color: #FFFFFF;
   display: block;
@@ -17,7 +17,7 @@ body {
 }
 
 .sidebar h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
   font-size: 150%;
   color: #FFFFFF;
   display: block;
@@ -29,7 +29,7 @@ body {
 }
 
 .sidebar h3{
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
   color: #FFFFFF;
   display: block;
   padding: 16px;
@@ -43,11 +43,11 @@ body {
 }
 
 .content h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
 }
 
 .content h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
 }
 
 .content p {
@@ -78,7 +78,7 @@ p.indent {text-indent: 30px;}
 }
 
 #footer p {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
   text-align: center;
 }
 
@@ -112,7 +112,7 @@ div.content {
 
 /* Sidebar links */
 .sidebar a {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
   display: block;
   color: #FFFFFF;
   padding: 16px;
@@ -122,8 +122,12 @@ div.content {
   font-size: 125%;
 }
 
+span.heart{
+    color: #f5bcc8;
+}
+
 #colophon a {
-  font-family: "Playfair Display", serif;
+  font-family: "Times New Roman", serif;
   font-size: 100%;
   color: #FFFFFF;
   display: block;
@@ -141,7 +145,7 @@ div.content {
 }
 
 /* Links on mouse-over */
-.sidebar a:hover:not(.active) {
+.sidebar a:hover {
   background-color: #ee90a5;
   color: #FFFFFF;
 }
